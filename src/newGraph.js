@@ -1,4 +1,4 @@
 "use strict";
-function test(a) {
+export function test(a) {
     return 2 * a;
 }
